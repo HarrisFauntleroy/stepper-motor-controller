@@ -1,5 +1,5 @@
 /*!
- * @file  coil_winding_controller.ino
+ * @file  stepper_motor_controller.ino
  * @brief TB6600 Stepper Motor Driver with manual controls for Tesla coil winding
  * @version  V1.0.0
  * @date  2025-11-27
